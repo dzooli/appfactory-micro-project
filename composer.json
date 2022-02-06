@@ -29,5 +29,8 @@
         "serve": [
             "phalcon serve"
         ]
+    },
+    "require-dev": {
+        "phalcon/ide-stubs": "dev-master"
     }
 }
