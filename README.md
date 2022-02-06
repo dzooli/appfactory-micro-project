@@ -1,4 +1,4 @@
-# Phalcon Micro-Appfactory demo application
+# Phalcon Micro-AppFactory demo application
 
 ## Description
 
