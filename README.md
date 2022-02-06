@@ -13,7 +13,11 @@ Sample application for https://github.com/dzooli/phalcon-appfactory package.
 
 ## Installation
 
-Clone the repository and run `composer run-script serve`.
+Clone the repository and run
+
+```bash
+composer run-script --timeout 0 serve
+```
 
 ## Usage
 
