@@ -27,10 +27,11 @@
     },
     "scripts": {
         "serve": [
-            "phalcon serve"
+            "vendor/bin/phalcon serve"
         ]
     },
     "require-dev": {
-        "phalcon/ide-stubs": "dev-master"
+        "phalcon/ide-stubs": "dev-master",
+        "phalcon/devtools": "dev-master"
     }
 }
