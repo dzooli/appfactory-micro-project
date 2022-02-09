@@ -2,20 +2,20 @@
 
 ## Description
 
-Sample application for https://github.com/dzooli/phalcon-appfactory package.
+Sample application for https://github.com/dzooli/phalcon-appfactory package. The package is under development within this project. All required classes are defined in this sample for a while.
 
 ## Requirements
 
 - PHP 7.4
 - Composer in the PATH
 - Phalcon4 framework
-- phalcon/devtools in the PATH
 
 ## Installation
 
 Clone the repository and run
 
 ```bash
+composer install -vv -o
 composer run-script --timeout 0 serve
 ```
 
