@@ -16,7 +16,6 @@ require_once(BASE_PATH . '/vendor/autoload.php');
 abstract class AbstractAppFactory
 {
     protected ?string $appPath = null;
-
     protected $di = null;
     protected ?\Phalcon\Config $appConfig = null;
     protected $loader = null;
