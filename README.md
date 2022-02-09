@@ -2,7 +2,7 @@
 
 ## Description
 
-Sample application for https://github.com/dzooli/phalcon-appfactory package. The package is under development within this project. All required classes are defined in this sample for a while.
+Sample application for <https://github.com/dzooli/phalcon-appfactory> package. The package is under development within this project. All required classes are defined in this sample for a while.
 
 ## Requirements
 
