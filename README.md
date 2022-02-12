@@ -21,7 +21,7 @@ vendor/bin/phalcon serve
 
 ## Usage
 
-Implement your controllers, override your services and routes in `app/app.php` and run the application.
+Implement your controllers, override your services and routes in `app/MyAppFacory.php::MyAppFactory class` and run the application.
 
 ## Contribution
 
