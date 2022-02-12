@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2ddfb4bf34d566142279f2e1c2c9b921",
+    "content-hash": "4fb707a281b29aadb5f7c5bbe224c7a2",
     "packages": [
         {
             "name": "dzooli/phalcon-appfactory",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/dzooli/phalcon-appfactory.git",
-                "reference": "271a3dd0f40154ded55a038d6b34876a17b08585"
+                "reference": "2eba981c686708c3a41145a6e71880547433598d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dzooli/phalcon-appfactory/zipball/271a3dd0f40154ded55a038d6b34876a17b08585",
-                "reference": "271a3dd0f40154ded55a038d6b34876a17b08585",
+                "url": "https://api.github.com/repos/dzooli/phalcon-appfactory/zipball/2eba981c686708c3a41145a6e71880547433598d",
+                "reference": "2eba981c686708c3a41145a6e71880547433598d",
                 "shasum": ""
             },
             "require": {
@@ -44,7 +44,7 @@
                 "source": "https://github.com/dzooli/phalcon-appfactory/tree/master",
                 "issues": "https://github.com/dzooli/phalcon-appfactory/issues"
             },
-            "time": "2022-02-01T00:59:03+00:00"
+            "time": "2022-02-12T16:19:55+00:00"
         }
     ],
     "packages-dev": [
@@ -493,12 +493,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phalcon/ide-stubs.git",
-                "reference": "2ac6f093ae183b3150cfacc108e8215227595d36"
+                "reference": "2991721ebdc00a51059aa65c38dd3af2af87801a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phalcon/ide-stubs/zipball/2ac6f093ae183b3150cfacc108e8215227595d36",
-                "reference": "2ac6f093ae183b3150cfacc108e8215227595d36",
+                "url": "https://api.github.com/repos/phalcon/ide-stubs/zipball/2991721ebdc00a51059aa65c38dd3af2af87801a",
+                "reference": "2991721ebdc00a51059aa65c38dd3af2af87801a",
                 "shasum": ""
             },
             "require": {
@@ -553,7 +553,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-01-06T15:41:52+00:00"
+            "time": "2022-02-08T20:49:53+00:00"
         },
         {
             "name": "phalcon/migrations",
@@ -767,12 +767,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/psysh.git",
-                "reference": "5427b023c80b33cdb2955ddcb853aae81e9c0450"
+                "reference": "143ea90c2a2f83a6ea90602bd9b1f705a8af519b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/5427b023c80b33cdb2955ddcb853aae81e9c0450",
-                "reference": "5427b023c80b33cdb2955ddcb853aae81e9c0450",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/143ea90c2a2f83a6ea90602bd9b1f705a8af519b",
+                "reference": "143ea90c2a2f83a6ea90602bd9b1f705a8af519b",
                 "shasum": ""
             },
             "require": {
@@ -835,7 +835,7 @@
                 "issues": "https://github.com/bobthecow/psysh/issues",
                 "source": "https://github.com/bobthecow/psysh/tree/main"
             },
-            "time": "2022-01-29T16:23:37+00:00"
+            "time": "2022-02-10T07:23:46+00:00"
         },
         {
             "name": "symfony/console",
@@ -843,12 +843,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "468f17e0875fb182bb3f8e51ed43d9be31e68dc2"
+                "reference": "5caf5d80363b2a46d2cd1b24d08c5ab259b53487"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/468f17e0875fb182bb3f8e51ed43d9be31e68dc2",
-                "reference": "468f17e0875fb182bb3f8e51ed43d9be31e68dc2",
+                "url": "https://api.github.com/repos/symfony/console/zipball/5caf5d80363b2a46d2cd1b24d08c5ab259b53487",
+                "reference": "5caf5d80363b2a46d2cd1b24d08c5ab259b53487",
                 "shasum": ""
             },
             "require": {
@@ -935,7 +935,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-01-31T16:08:03+00:00"
+            "time": "2022-02-09T15:52:21+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -1285,12 +1285,12 @@
                 }
             },
             "autoload": {
-                "psr-4": {
-                    "Symfony\\Polyfill\\Mbstring\\": ""
-                },
                 "files": [
                     "bootstrap.php"
-                ]
+                ],
+                "psr-4": {
+                    "Symfony\\Polyfill\\Mbstring\\": ""
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -1851,5 +1851,5 @@
         "ext-phalcon": "^4"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
