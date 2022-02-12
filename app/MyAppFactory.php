@@ -2,11 +2,13 @@
 
 namespace App;
 
+use Dzooli\Phalcon\Core\AbstractAppFactory;
 use Dzooli\Phalcon\Core\MicroAppFactory;
+use Dzooli\Phalcon\Core\RouterDefinitionInterface;
 
-class MyAppFactory extends MicroAppFactory
+class MyAppFactory extends MicroAppFactory implements RouterDefinitionInterface
 {
-    public function addRoutes()
+    public function addRoutes(): AbstractAppFactory
     {
         $app = $this->app;
         $this->app->get('/', function () use ($app) {
