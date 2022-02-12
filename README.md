@@ -16,7 +16,7 @@ Clone the repository and run
 
 ```bash
 composer install -vv -o
-composer run-script --timeout 0 serve
+vendor/bin/phalcon serve
 ```
 
 ## Usage
