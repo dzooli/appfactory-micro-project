@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/dzooli/phalcon-appfactory.git",
-                "reference": "2eba981c686708c3a41145a6e71880547433598d"
+                "reference": "de5fde50d3fe3e5ee1a2de6fbccf387c556671e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dzooli/phalcon-appfactory/zipball/2eba981c686708c3a41145a6e71880547433598d",
-                "reference": "2eba981c686708c3a41145a6e71880547433598d",
+                "url": "https://api.github.com/repos/dzooli/phalcon-appfactory/zipball/de5fde50d3fe3e5ee1a2de6fbccf387c556671e6",
+                "reference": "de5fde50d3fe3e5ee1a2de6fbccf387c556671e6",
                 "shasum": ""
             },
             "require": {
@@ -44,7 +44,7 @@
                 "source": "https://github.com/dzooli/phalcon-appfactory/tree/master",
                 "issues": "https://github.com/dzooli/phalcon-appfactory/issues"
             },
-            "time": "2022-02-12T16:19:55+00:00"
+            "time": "2022-02-14T13:55:39+00:00"
         }
     ],
     "packages-dev": [
