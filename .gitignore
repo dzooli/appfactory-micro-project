@@ -19,6 +19,12 @@
 !.vscode/*.code-snippets
 *.code-workspace
 
+### Visual Studio ###
+.vs
+*.phpproj*
+*.sln
+launchSettings.json
+
 # Local History for Visual Studio Code
 .history/
 
